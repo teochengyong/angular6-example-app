@@ -468,10 +468,6 @@ Apache License
 MIT
 MIT
 
-angular-example-library@1.1.2
-MIT
-MIT
-
 @angular/flex-layout@5.0.0-beta.14
 MIT
 The MIT License
